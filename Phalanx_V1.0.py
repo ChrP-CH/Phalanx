@@ -952,7 +952,7 @@ while _end==False:
                         break
             print("Angriff nicht zulässig! Neues Zielfeld wählen!\n")
         if _start2=="N":
-            Meuchel_N==0
+            Meuchel_N=0
         if _start2=="S":
             Meuchel_S=0
         if Einheit[1] not in ["L","B"]:
